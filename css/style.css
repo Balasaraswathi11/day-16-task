@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(60, 11%, 5%);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    height: 200px;
+    display: flex;
+    width:500px;
+    text-align: center;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    
+    
+    font-family: 'Times New Roman', Times, serif;
+
+    margin: 15%;
+}
+.heading{
+    margin-top: 30%;
+}
+
+
